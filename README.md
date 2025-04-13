@@ -1,4 +1,4 @@
-# Practice What is HTML
+# Practice: What is HTML
 
 ### Practice working with HTML
 
