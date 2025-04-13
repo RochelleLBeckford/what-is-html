@@ -7,4 +7,4 @@
 ---
 - [ ] Encompass:
   - [ ] HTML
-- [ ] HTML → will be the structure and skeleton of how the app will appear on the webpage# what-is-html
+- [ ] HTML → will be the structure and skeleton of how the app will appear on the webpage
